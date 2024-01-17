@@ -1,0 +1,29 @@
+.cntr-body {
+    font-size: 100px;
+    color: aliceblue
+}
+
+.cntr-btn {
+    width: 100px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 25px;
+    background-color: rgb(33, 140, 228);
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.reset-button {
+    margin: 15px;
+    width: 150px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 25px;
+    background-color: rgb(232, 224, 8);
+    font-size: 20px;
+    font-weight: bold;
+
+}
